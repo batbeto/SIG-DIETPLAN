@@ -1,6 +1,6 @@
 # SIG-DIETPLAN
 
-O SIG-DIETPLAN é um sistema de planejamento alimentar que consistse em ajudar as pessoas com sua
+O SIG-DIETPLAN é um sistema de planejamento alimentar que consiste em ajudar as pessoas com sua
 saúde para uma melhor qualidade de vida. Assim o sistema proposto após implementado será capaz de
 fornecer dietas a gosto de seus consumidores, dietas semanais, mensais, trimestrais ou de
 maneira personalizada. Possuirá um módulo de busca e filtros que garantem a integridade
